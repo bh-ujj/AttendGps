@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "711859752293",
+    "firebase_url": "https://androidattendance-57ebf-default-rtdb.firebaseio.com",
+    "project_id": "androidattendance-57ebf",
+    "storage_bucket": "androidattendance-57ebf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:711859752293:android:4352495e0eb76a89e8e58c",
+        "android_client_info": {
+          "package_name": "com.example.geofire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "711859752293-ohr24e98valdkq54vivs70ccrmp1ase7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrrMiZbKIznhotdZDI76RrErgTjITXQN0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "711859752293-ohr24e98valdkq54vivs70ccrmp1ase7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:711859752293:android:890a1617b279d91be8e58c",
+        "android_client_info": {
+          "package_name": "com.example.loginsignup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "711859752293-ohr24e98valdkq54vivs70ccrmp1ase7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrrMiZbKIznhotdZDI76RrErgTjITXQN0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "711859752293-ohr24e98valdkq54vivs70ccrmp1ase7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:711859752293:android:67cc18bead880244e8e58c",
+        "android_client_info": {
+          "package_name": "com.ujwal.androidattend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "711859752293-ohr24e98valdkq54vivs70ccrmp1ase7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrrMiZbKIznhotdZDI76RrErgTjITXQN0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "711859752293-ohr24e98valdkq54vivs70ccrmp1ase7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
